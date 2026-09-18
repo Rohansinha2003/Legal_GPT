@@ -1,0 +1,1 @@
+"""Legal-GPT2 project package."""

@@ -1,0 +1,3 @@
+# Data
+
+Put licensed source data in `raw/`. Raw files are never modified. The observed dataset uses one directory per sample with `EN_Judgment.txt`, `EN_Summary.txt`, and `HI_Summary.txt`; conversion pairs the English judgment and English summary and intentionally excludes the Hindi summary from the English task. JSON/JSONL records and TXT blocks with an explicit `SUMMARY:` separator are also supported.
